@@ -1,2 +1,2 @@
-# Project-Inovate-P4
-Project Inovate Periode 4
+# ProjectMMP
+Project van multimediaproductie in periode 4
