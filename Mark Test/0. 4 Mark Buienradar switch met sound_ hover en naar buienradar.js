@@ -5,7 +5,7 @@ var lib={};var ss={};var img={};
 lib.ssMetadata = [
 		{name:"0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_1", frames: [[0,830,1438,232],[0,0,980,828],[1440,0,550,512],[1440,514,550,512],[1440,1028,550,512],[0,1064,550,512],[552,1064,550,512]]},
 		{name:"0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_2", frames: [[0,0,550,512],[552,0,550,512],[1104,0,550,512],[0,514,550,512],[0,1028,550,512],[552,514,550,512],[1104,514,550,512],[552,1028,550,512],[1104,1028,550,512]]},
-		{name:"0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_3", frames: [[1066,0,398,232],[552,514,552,232],[0,1542,1008,212],[1466,0,40,1698],[0,0,550,512],[0,514,550,512],[1066,234,128,116],[1066,352,98,116],[552,0,512,512],[652,748,76,81],[0,1028,550,512],[552,748,98,116]]}
+		{name:"0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_3", frames: [[1066,0,398,232],[552,514,552,232],[0,1542,1008,212],[1466,0,40,1698],[0,0,550,512],[0,514,550,512],[1066,352,98,116],[552,748,98,116],[0,1028,550,512],[652,748,76,81],[552,0,512,512],[1066,234,128,116]]}
 ];
 
 
@@ -202,28 +202,28 @@ lib.ssMetadata = [
 
 
 
-(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_13 = function() {
+(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_12 = function() {
 	this.initialize(ss["0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_1"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_14 = function() {
+(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_11 = function() {
 	this.initialize(ss["0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_1"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_11 = function() {
+(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_14 = function() {
 	this.initialize(ss["0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_15 = function() {
+(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_13 = function() {
 	this.initialize(ss["0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_2"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
@@ -237,28 +237,28 @@ lib.ssMetadata = [
 
 
 
-(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_3 = function() {
+(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_15 = function() {
 	this.initialize(ss["0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_2"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_4 = function() {
+(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_3 = function() {
 	this.initialize(ss["0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_2"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_5 = function() {
+(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_2 = function() {
 	this.initialize(ss["0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_2"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_2 = function() {
+(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_5 = function() {
 	this.initialize(ss["0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_2"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
@@ -272,14 +272,14 @@ lib.ssMetadata = [
 
 
 
-(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_8 = function() {
+(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_7 = function() {
 	this.initialize(ss["0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_2"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_7 = function() {
+(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_8 = function() {
 	this.initialize(ss["0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_3"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
@@ -293,7 +293,7 @@ lib.ssMetadata = [
 
 
 
-(lib.Bitmap17 = function() {
+(lib.Bitmap4 = function() {
 	this.initialize(ss["0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_3"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
@@ -307,7 +307,7 @@ lib.ssMetadata = [
 
 
 
-(lib.playbutton = function() {
+(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_4 = function() {
 	this.initialize(ss["0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_3"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
@@ -321,14 +321,14 @@ lib.ssMetadata = [
 
 
 
-(lib._7ef88eb8ecac4f7dbfd7ff93438fee00_12 = function() {
+(lib.playbutton = function() {
 	this.initialize(ss["0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_3"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Bitmap4 = function() {
+(lib.Bitmap17 = function() {
 	this.initialize(ss["0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_3"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
@@ -382,14 +382,21 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.text.parent = this;
 	this.text.setTransform(140.0657,396,0.9608,1);
 
-	this.text_1 = new cjs.Text("Play", "50px 'Calibri'");
+	this.text_1 = new cjs.Text("", "50px 'Calibri'");
 	this.text_1.textAlign = "center";
 	this.text_1.lineHeight = 63;
-	this.text_1.lineWidth = 246;
+	this.text_1.lineWidth = 100;
 	this.text_1.parent = this;
-	this.text_1.setTransform(140.0657,396,0.9608,1);
+	this.text_1.setTransform(2263,-313.6);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.text,p:{scaleX:0.9608,x:140.0657,y:396,text:"Play",lineWidth:246}}]},1).to({state:[{t:this.text_1},{t:this.text,p:{scaleX:1,x:2263,y:-313.6,text:"",lineWidth:100}}]},1).wait(1));
+	this.text_2 = new cjs.Text("Play", "50px 'Calibri'");
+	this.text_2.textAlign = "center";
+	this.text_2.lineHeight = 63;
+	this.text_2.lineWidth = 246;
+	this.text_2.parent = this;
+	this.text_2.setTransform(140.0657,396,0.9608,1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.text,p:{scaleX:0.9608,x:140.0657,y:396,text:"Play",lineWidth:246}}]},1).to({state:[{t:this.text_2},{t:this.text_1},{t:this.text,p:{scaleX:1,x:2612,y:-564.6,text:"",lineWidth:100}}]},1).wait(1));
 
 	// Button
 	this.instance = new lib.playbutton();
@@ -400,7 +407,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,-315.6,2315,781.6);
+p.nominalBounds = new cjs.Rectangle(0,-566.6,2664,1032.6);
 
 
 (lib.Klok = function(mode,startPosition,loop) {
@@ -825,7 +832,7 @@ p.nominalBounds = new cjs.Rectangle(0.5,0,207,251.6);
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(979,572,1553,475.5);
+p.nominalBounds = new cjs.Rectangle(979,499.4,1902,548.1);
 // library properties:
 lib.properties = {
 	id: 'CDC45C8BB00F8D4BA5800961AC080F3C',
@@ -835,13 +842,13 @@ lib.properties = {
 	color: "#6298BC",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_10.png?1591617000658", id:"CachedBmp_10"},
-		{src:"images/CachedBmp_1.png?1591617000658", id:"CachedBmp_1"},
-		{src:"images/0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_1.png?1591617000515", id:"0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_1"},
-		{src:"images/0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_2.png?1591617000515", id:"0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_2"},
-		{src:"images/0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_3.png?1591617000516", id:"0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_3"},
-		{src:"sounds/MouseClickSoundEffectHDAudioTrimmercom.mp3?1591617000658", id:"MouseClickSoundEffectHDAudioTrimmercom"},
-		{src:"sounds/MouseClickSoundEffectHDAudioTrimmercommp3copy.mp3?1591617000658", id:"MouseClickSoundEffectHDAudioTrimmercommp3copy"}
+		{src:"images/CachedBmp_10.png?1591618411766", id:"CachedBmp_10"},
+		{src:"images/CachedBmp_1.png?1591618411766", id:"CachedBmp_1"},
+		{src:"images/0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_1.png?1591618411710", id:"0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_1"},
+		{src:"images/0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_2.png?1591618411710", id:"0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_2"},
+		{src:"images/0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_3.png?1591618411710", id:"0. 4 Mark Buienradar switch met sound_ hover en naar buienradar_atlas_3"},
+		{src:"sounds/MouseClickSoundEffectHDAudioTrimmercommp3copy.mp3?1591618411766", id:"MouseClickSoundEffectHDAudioTrimmercommp3copy"},
+		{src:"sounds/MouseClickSoundEffectHDAudioTrimmercom.mp3?1591618411766", id:"MouseClickSoundEffectHDAudioTrimmercom"}
 	],
 	preloads: []
 };
