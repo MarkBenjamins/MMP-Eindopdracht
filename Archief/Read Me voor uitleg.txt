@@ -1,6 +1,0 @@
-Main is de default met bassis functies
-
-Main1.0 heeft een 
-functionele seconden klok
-presentie veranderd bij newsfeed
-Naamen zijn grappig.
